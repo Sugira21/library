@@ -34,8 +34,10 @@ table{
     padding: 3%;
     }
     .service_header{
-    color: black;
     text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
     }
     .service_description{
     text-align: justify;
