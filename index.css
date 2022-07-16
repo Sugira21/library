@@ -1,0 +1,114 @@
+table{
+    height: 100%;
+    margin: 10%;
+    }
+    .header-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    }
+    .service_container{
+    display: flex;
+    justify-content: space-between;
+    }
+    .reading{
+    flex:30%;
+    margin:3%;
+    box-shadow: 3px 3px 3px 3px grey;
+    padding: 4%;
+    }
+    .return_book{
+    flex:30%;
+    margin:3%;
+    box-shadow: 3px 3px 3px 3px grey;
+    padding: 4%;
+    }
+    .assistance{
+    flex:30%;
+    margin:3%;
+    box-shadow: 3px 3px 3px 3px grey;
+    padding: 4%;
+    }
+    .section_header{
+    color: black;
+    padding: 3%;
+    }
+    .service_header{
+    color: black;
+    text-align: center;
+    }
+    .service_description{
+    text-align: justify;
+    color: grey;
+    }
+    .section-container{
+    background-color:#f0d0b9;
+    }
+    hr{
+    color: white;
+    }
+    .sub{
+    background-color: #f0d0b9;
+    padding: 2%;
+    }
+    .footer-section-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    }
+    .biography{
+    flex:30%;
+    padding: 2%;
+    }
+    .special-links{
+    flex:30%;
+    padding: 2%;
+    }
+    .feedback{
+    flex:30%;
+    padding: 2%;
+    }
+    .bookimage{
+    width: 200px;
+    height: 200px;
+    }
+    .footer{
+    background: linear-gradient(0deg, rgba(240,208,185,1) 1%, rgba(208,148,92,1) 47%);  
+    }
+    .header{
+    background: linear-gradient(0deg, rgba(240,208,185,1) 1%, rgba(208,148,92,1) 47%);  
+    }
+    .footer-links{
+    text-decoration: none;
+    color:  beige;
+    padding: 2%;
+    }
+    .header-links{
+    text-decoration: none;
+    color:  beige;
+    padding-top: 3%;
+    }
+    .navigation-links{
+    text-decoration: none;
+    color:  black;
+    font-weight: bolder;
+    }
+    .navigation-links:hover{
+    color: #f0d0b9;
+    }
+    .navigations{
+    text-align: center;
+    }
+    .signup-form{
+        box-shadow: 4px 4px 4px 4px;
+        margin: 4%;
+        padding: 5%;
+      }
+      .login-form{
+        box-shadow: 4px 4px 4px 4px;
+        padding: 5%;
+      }
+      .hr{
+       background-color: #f0d0b9;
+       padding: 1%;
+      }
